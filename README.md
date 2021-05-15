@@ -4,7 +4,7 @@ Animation with random gradients
 
 随机渐变出现的动画
 
-![](https://github.com/Wing-Li/flutter_appears_randomly_animation/blob/master/img/example_video.gif)
+![](https://github.com/Wing-Li/flutter_appears_randomly/blob/master/res/example_video.gif)
 
 ## 使用示例
 
