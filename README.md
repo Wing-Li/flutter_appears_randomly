@@ -4,10 +4,12 @@ Animation with random gradients
 
 随机渐变出现的动画
 
+![](https://github.com/Wing-Li/flutter_appears_randomly_animation/blob/master/img/example_video.gif)
+
 ## 使用示例
 
     Container(
-      padding: EdgeInsets.symmetric(horizontal: 16), // 为了防止贴边不美观，可以去掉
+      padding: EdgeInsets.symmetric(horizontal: 16), // 为了防止贴边不美观。（可以去掉）
       child: AppearsRandomlyWidget(
         width: screenWidth, // 整体的宽高。用于计算 item 出现的范围
         height: screenWidth,

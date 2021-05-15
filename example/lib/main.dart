@@ -71,7 +71,7 @@ class _MyHomePageState extends State<MyHomePage> {
       children: [
         Image.asset(_getImage("bg_header_ripple_anim", format: "webp"), width: double.infinity, height: double.infinity),
         Container(
-          padding: EdgeInsets.symmetric(horizontal: 16), // 为了防止贴边不美观，可以去掉
+          padding: EdgeInsets.symmetric(horizontal: 16), // 为了防止贴边不美观。（可以去掉）
           child: AppearsRandomlyWidget(
             width: screenWidth, // 整体的宽高。用于计算 item 出现的范围
             height: screenWidth,
